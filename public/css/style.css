@@ -1,0 +1,22 @@
+body {
+    background-image: url("/img/background.jpg");
+}
+.container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.wrapperdiv {
+    padding-top: 50px; 
+    padding-bottom: 30px;
+    background-color: #F21B3E;
+}
+
+.formcontainer {
+    width:60%;
+    margin: 0 auto;
+}
+
+.img-thumbnail {
+    width: 80px;
+    
+}
